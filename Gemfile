@@ -36,7 +36,7 @@ gem "thruster", require: false
 gem "devise"
 gem "active_model_serializers", "~> 0.10.0"
 gem "rack-cors"
-gem "sqlite3", "~> 2.2"
+gem "sqlite3", "~> 2.7"
 gem 'tiny_tds' # SQL Server bağlantısı için native C kütüphanesi
 gem 'activerecord-sqlserver-adapter'
 gem 'devise-jwt'
